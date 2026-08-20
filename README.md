@@ -189,7 +189,7 @@ data/events_anomalydetection_v2.features.h5
 run the notebook:
 
 ```text
-notebooks/anomaly_detection.ipynb
+Particles.ipynb
 ```
 
 The notebook contains the complete analysis pipeline, including:
